@@ -1,0 +1,12 @@
+* {
+    background-color: #040404;
+    color: #ffffff;
+}
+table {
+    text-align: center; }
+    table td {
+        width: 40px;
+        height: 40px;
+        font-size: 10px;
+        
+    }
